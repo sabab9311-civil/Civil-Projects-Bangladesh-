@@ -1,5 +1,5 @@
 md
-![Banner](banner.jpg)
+![Banner](banner.png)
 
 [Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 [AutoCAD](https://img.shields.io/badge/AutoCAD-E00C27?style=for-the-badge&logo=autodesk&logoColor=white)
