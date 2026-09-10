@@ -10,4 +10,4 @@ axial_load = 0.4 * concrete_strength * area / 1000
 
 print(f"\nColumn Area: {area} mm²")
 print(f"Safe Axial Load: {axial_load:.2f} KN")
-Add: 1st Python Project - Column Calculator
+1st Python Project - Column Calculator
