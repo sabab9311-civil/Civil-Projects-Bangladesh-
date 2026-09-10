@@ -23,6 +23,7 @@ Hi, I'm **Sabab** from Bogura Polytechnic Institute.
 | --- | --- | --- |
 | Smart Bridge Monitoring | Coming Soon | Arduino + Python |
 | Flood Prediction Model | Coming Soon | Python + Data |
+| Column Load Calculator | Done | Python |
 
 **Let's connect and build the future!**
-| Column Load Calculator | Done | Python |
+
