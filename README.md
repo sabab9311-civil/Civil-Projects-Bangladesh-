@@ -26,6 +26,7 @@ Hi, I'm **Sabab** from Bogura Polytechnic Institute.
 | Column Load Calculator | Done | Python |
 | Beam Deflection Calculator | Done | Python |
 | Concrete Mix Calculator | Done | Python |
+| Brick Work Calculator | Done | Python |
 
 **Let's connect and build the future!**
 
