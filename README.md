@@ -27,6 +27,7 @@ Hi, I'm **Sabab** from Bogura Polytechnic Institute.
 | Beam Deflection Calculator | Done | Python |
 | Concrete Mix Calculator | Done | Python |
 | Brick Work Calculator | Done | Python |
+| Steel Bar Calculator | Done | Python |
 
 **Let's connect and build the future!**
 
