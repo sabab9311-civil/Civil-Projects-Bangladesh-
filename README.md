@@ -28,6 +28,7 @@ Hi, I'm **Sabab** from Bogura Polytechnic Institute.
 | Concrete Mix Calculator | Done | Python |
 | Brick Work Calculator | Done | Python |
 | Steel Bar Calculator | Done | Python |
+| Slab Material Calculator | Done | Python |
 
 **Let's connect and build the future!**
 
