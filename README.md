@@ -6,9 +6,27 @@
 
 # Civil-Projects-Bangladesh 🇧🇩
 
-Hi, I'm **Sabab** from Bogura Polytechnic Institute.  
+### About This Repo
+This is a collection of Python tools made to solve real Civil Engineering problems in Bangladesh. 
+**Goal: Automate 50+ daily site calculations so engineers can focus on building, not calculating.**
 
-**Goal:** MIT Civil & Environmental Engineering + AI
+Made by a Civil Engineer, for Civil Engineers.
+
+### 🚀 Why This Repo?
+In Bangladesh, we still do most calculations in notebook and calculator. 
+This toolkit reduces 30 min work to 30 seconds. No Excel, No error.
+
+### 👨‍💻 About Me
+Hi, I'm **Al Muktadir Sabab** from Bogura Polytechnic Institute. Civil Engineering Student from Bangladesh
+I build tools that solve real problems on construction sites.
+Open to Collaboration & Feedback.
+
+### 📫 Connect
+If you are a Civil Engineer, drop your biggest site calculation problem here. 
+I will build a tool for it.
+
+### 🎯 90 Day Goal
+Complete 30 Tools and help 1000+ engineers save time.
 
 ### Skills
 `AutoCAD` `Civil 3D` `Python` `Structural Analysis` `GIS`
@@ -29,6 +47,6 @@ Hi, I'm **Sabab** from Bogura Polytechnic Institute.
 | Brick Work Calculator | Done | Python |
 | Steel Bar Calculator | Done | Python |
 | Slab Material Calculator | Done | Python |
+| Foundation Calculator | Done | Python |
 
 **Let's connect and build the future!**
-
